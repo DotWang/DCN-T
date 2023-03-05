@@ -1,1 +1,1 @@
-# DCN-T for HSIC
+# Dual Context Network with Transformer for HSIC
