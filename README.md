@@ -2,7 +2,7 @@
 
 ## Di Wang, Jing Zhang, Bo Du, Liangpei Zhang and Dacheng Tao
 
-### Pytorch implementation of our [paper](https://arxiv.org/abs/2304.09915) for Transformer-based image-level hyperspectral image classification.
+### Pytorch implementation of our [paper](https://arxiv.org/abs/2304.09915) for ImageNet pretraining and Transformer-based image-level hyperspectral image classification.
 
 
 <table>
