@@ -23,14 +23,15 @@
 git clone https://github.com/DotWang/DCN-T.git
 ```
 3. Prepare the tri-spectral dataset with the notebook
-4. For implementing the clusttering, install the SSN 
+4. Download [ImageNet pretrained model](https://pytorch.org/vision/stable/models/vgg.html?highlight=models)
+5. For implementing the clusttering, install the SSN 
 ```
 cd utils/gensp/src
 python setup.py install
 ```
 Or you can taste the pytorch version realized in the ***network_local_global.py***
 
-4. Training and Testing
+6. Training and Testing
 
 For example, training on the [WHU-Hi-LongKou](http://rsidea.whu.edu.cn/resource_WHUHi_sharing.htm) scene with soft voting
 
