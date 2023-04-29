@@ -58,20 +58,15 @@ CUDA_VISIBLE_DEVICES=0 python test_gpu.py \
 ## Citation
 
 ```
-@ARTICLE{2023arXiv230409915W,
-       author = {{Wang}, Di and {Zhang}, Jing and {Du}, Bo and {Zhang}, Liangpei and {Tao}, Dacheng},
-        title = "{DCN-T: Dual Context Network with Transformer for Hyperspectral Image Classification}",
-      journal = {arXiv e-prints},
-     keywords = {Computer Science - Computer Vision and Pattern Recognition},
-         year = 2023,
-        month = apr,
-          eid = {arXiv:2304.09915},
-        pages = {arXiv:2304.09915},
-          doi = {10.48550/arXiv.2304.09915},
-archivePrefix = {arXiv},
-       eprint = {2304.09915},
- primaryClass = {cs.CV},
-}
+@ARTICLE{wang_2023_dcnt,
+  author={Wang, Di and Zhang, Jing and Du, Bo and Zhang, Liangpei and Tao, Dacheng},
+  journal={IEEE Transactions on Image Processing}, 
+  title={DCN-T: Dual Context Network with Transformer for Hyperspectral Image Classification}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/TIP.2023.3270104}}
 ```
 
 ## Thanks
