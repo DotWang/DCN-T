@@ -61,12 +61,13 @@ CUDA_VISIBLE_DEVICES=0 python test_gpu.py \
 @ARTICLE{wang_2023_dcnt,
   author={Wang, Di and Zhang, Jing and Du, Bo and Zhang, Liangpei and Tao, Dacheng},
   journal={IEEE Transactions on Image Processing}, 
-  title={DCN-T: Dual Context Network with Transformer for Hyperspectral Image Classification}, 
+  title={DCN-T: Dual Context Network With Transformer for Hyperspectral Image Classification}, 
   year={2023},
-  volume={},
+  volume={32},
   number={},
-  pages={1-1},
+  pages={2536-2551},
   doi={10.1109/TIP.2023.3270104}}
+
 ```
 
 ## Thanks
