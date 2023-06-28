@@ -84,9 +84,9 @@ CUDA_VISIBLE_DEVICES=0 python test_gpu.py \
  <br><em> &ensp; &ensp; Di Wang<sup>&#8727;</sup>, Bo Du, and Liangpei Zhang</em>
  
 [3] <strong> Graph Convolution based Hyperspectral Image Classification </strong> 
-<br> &ensp; &ensp; Spectral-Spatial Global Graph Reasoning for Hyperspectral Image Classification, IEEE TNNLS, 2023 | [Paper](https://arxiv.org/abs/2106.13952) | [Github](https://github.com/DotWang/SSGRN)
+<br> &ensp; &ensp; Spectral-Spatial Global Graph Reasoning for Hyperspectral Image Classification, IEEE TNNLS, 2023 | [Paper](https://ieeexplore.ieee.org/document/10114988) | [Github](https://github.com/DotWang/SSGRN)
  <br><em> &ensp; &ensp; Di Wang<sup>&#8727;</sup>, Bo Du, and Liangpei Zhang</em>
  
 [4] <strong> Neural Architecture Search for Hyperspectral Image Classification </strong> 
-<br> &ensp; &ensp; HKNAS: Classification of Hyperspectral Imagery Based on Hyper Kernel Neural Architecture Search, IEEE TNNLS, 2023 | Paper | [Github](https://github.com/DotWang/HKNAS)
+<br> &ensp; &ensp; HKNAS: Classification of Hyperspectral Imagery Based on Hyper Kernel Neural Architecture Search, IEEE TNNLS, 2023 | [Paper](https://ieeexplore.ieee.org/document/10159237) | [Github](https://github.com/DotWang/HKNAS)
  <br><em> &ensp; &ensp; Di Wang<sup>&#8727;</sup>, Bo Du, Liangpei Zhang, and Dacheng Tao</em>
