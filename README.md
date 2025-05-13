@@ -4,6 +4,19 @@
 
 ### Pytorch implementation of our [paper](https://arxiv.org/abs/2304.09915) for ImageNet Pretraining and Transformer-based image-level hyperspectral image classification.
 
+## Update 
+
+### 2023.10.18
+
+DCN-T won the highly cited paper!
+
+<figure>
+<div align="center">
+<img src=highlycited.png width="100%">
+</div>
+</figure>
+
+## Framework
 
 <table>
 <tr>
